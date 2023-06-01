@@ -3,11 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=avilahesnan&color=blueviolet)
 
-<div align="center">
-  <a href="https://github.com/avilahesnan">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=avilahesnan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilahesnan&layout=compact&langs_count=21&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilahesnan&show_icons=true&theme=dracula)
 
 <div style="display: flex, justify-content: space-between, align-itens: center"><br>
   <img align="center" alt="Hesnan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
