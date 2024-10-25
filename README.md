@@ -1,5 +1,5 @@
 ## I'm Hesnan Ávila, Developer at Compre Sem Fila
-### Junior Full Stack Developer | Python | Django | Vue
+### 👨‍💻 Junior Full Stack Developer | Python | Django | Vue
 
 <div align="center">
   <a href="https://github.com/avilahesnan">
